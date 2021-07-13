@@ -1,0 +1,11 @@
+/* width and height: 100% sets width or height of <div> element to 100% of the page */
+/* #mapid references the "id" tag on the html page  */
+
+html,
+body,
+#mapid {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
